@@ -7,5 +7,11 @@ One can try other shapes as well by checking the VideoSurfaceView class 😎
 
 *This demo works better with portrait mode videos, but can be used for landscape videos as well.
 
+![](images/full_video.png)
+![](images/circle_video.png)
+![](images/oval_video.png)
+![](images/rectangle_video.png)
 
 
+
+ 😍 Happy Coding  😍
