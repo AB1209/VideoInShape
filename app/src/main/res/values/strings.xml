@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoInShape</string>
+
+    <string name="circle">Circle</string>
+    <string name="oval">Oval</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="full">Full</string>
+
+</resources>
